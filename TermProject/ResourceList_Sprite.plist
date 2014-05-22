@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>sprite_player.png</string>
+	<string>enemydummy.png</string>
+	<string>projectiledummy.png</string>
+	<string>projectile1R.png</string>
+	<string>projectile1G.png</string>
+	<string>projectile1B.png</string>
+	<string>projectile2R.png</string>
+	<string>projectile2G.png</string>
+	<string>projectile2B.png</string>
+	<string>projectile3C.png</string>
+	<string>projectile4C.png</string>
+	<string>sprite_enemy1.png</string>
+	<string>sprite_enemy2.png</string>
+	<string>sprite_enemy3.png</string>
+	<string>sprite_enemy4.png</string>
+	<string>sprite_enemy5.png</string>
+	<string>sprite_enemy6.png</string>
+	<string>sprite_enemy7.png</string>
+	<string>sprite_enemy8.png</string>
+</array>
+</plist>
